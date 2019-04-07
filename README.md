@@ -3,7 +3,9 @@ Just want to know, is there are other words than 'Attitude' that sum is equal to
 
 ## About this code
 Write this script to practice my coding.
-
+'''
+python3 word_value.py
+'''
 This script use English words from https://github.com/dwyl/english-words/blob/master/words_alpha.txt
 
 ## Note
